@@ -88,7 +88,7 @@ html {
 }
 
 .background {
-    background: rgba(0, 0, 0, 0.7) url("/Projects/Project-03/img/bg4.jpg");
+    background: rgba(0, 0, 0, 0.7) url("/img/bg4.jpg");
     background-size: cover;
     background-blend-mode: darken;
 }
